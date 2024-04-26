@@ -7,7 +7,7 @@ function App() {
   return (
     <>
      <div className=' text-xl font-bold text-blue-500'>Food Cosmosis</div>
-     <Button>Hi</Button>
+     <Button className='bg-red-500 text-white'>Hi</Button>
     </>
   )
 }
